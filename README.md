@@ -24,7 +24,7 @@ A proposta é aplicar os conceitos aprendidos na construção de uma **planilha 
 ## 🧩 Como Abrir e Usar
 
 1. **Requisitos**: Ter o Microsoft Excel instalado (recomenda-se versão 2016 ou superior).
-2. **Abrir**: Faça o download do arquivo `Projeto 1.xlsx` e abra com o Excel.
+2. **Abrir**: Faça o download do arquivo `Simulador Financeiro Fundos Imobiliários.xlsx` e abra com o Excel.
 3. **Preenchimento de Dados**:
    - Acesse a aba `Projeto 1`.
    - Vá até a seção **CONFIGURAÇÕES**.
