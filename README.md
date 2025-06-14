@@ -45,12 +45,6 @@ A proposta é aplicar os conceitos aprendidos na construção de uma **planilha 
 
 ---
 
-## 📸 Capturas de Tela
-
-As imagens da planilha estão organizadas na pasta `/images` deste repositório.
-
----
-
 ## 👥 Créditos
 
 - **Autora**: Carolina Mecatti
